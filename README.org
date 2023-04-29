@@ -1,0 +1,18 @@
+#+title: SVG Re-drawings of DROID modules
+
+* Introduction
+This repository contains my own drawings of various DROID modules that I own.
+
+I have drawn these from reference images in Inkscape. These are not completely
+to scale or absolutely perfectly correct, but may be of use to someone.
+
+The versions in the root of the repository do not include references to fonts,
+while the versions in the =font-required/= folder require the =Realtime DEMO=
+font.
+
+The DROID logo is drawn by hand by me to resemble the actual logo which I know
+that it only barely does.
+
+* Attribution
+These files are provided AS-IS. DROID and its names, designs and assets are the
+property of Mathias Kettner and co.
