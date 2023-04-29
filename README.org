@@ -13,6 +13,19 @@ font.
 The DROID logo is drawn by hand by me to resemble the actual logo which I know
 that it only barely does.
 
+* Preview
+
+[[./png/b32.png]]
+#+CAPTION: B32
+
+[[./png/p2b8-red.png]]
+#+CAPTION: P2B8 (red LEDs)
+[[./png/p2b8.png]]
+#+CAPTION: P2B8 (regular LEDs)
+
+[[./png/p10.png]]
+#+CAPTION: P10
+
 * Attribution
 These files are provided AS-IS. DROID and its names, designs and assets are the
 property of Mathias Kettner and co.
