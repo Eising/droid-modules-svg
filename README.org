@@ -1,7 +1,7 @@
 #+title: SVG Re-drawings of DROID modules
 
 * Introduction
-This repository contains my own drawings of various DROID modules that I own.
+This repository contains my own drawings of various [[https://shop.dermannmitdermaschine.de/pages/droid-universal-cv-processor][DROID]] modules that I own.
 
 I have drawn these from reference images in Inkscape. These are not completely
 to scale or absolutely perfectly correct, but may be of use to someone.
